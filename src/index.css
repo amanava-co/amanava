@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-amanava-green: #2C7464;
+  --color-amanava-black: #101010;
+  --color-amanava-coral: #FEA5A4;
+  --color-amanava-gold: #AA9849;
+  
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
